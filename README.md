@@ -87,7 +87,3 @@ This project includes:
 
 Contributions are welcome! Please submit pull requests or issues with details of your changes or improvements.
 
-
----
-
-Feel free to customize this README according to your project’s specifics and needs. Let me know if you need any more details or adjustments!
