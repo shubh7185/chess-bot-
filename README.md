@@ -1,6 +1,3 @@
-Sure! Here’s a README file for your chess bot project. This README provides an overview of the project, installation instructions, usage guidelines, and details about the files.
-
----
 
 # Chess Bot
 
